@@ -1,3 +1,7 @@
+body{
+    background-color: crimson;
+}
+
 .student-log{
     display: flex;
     justify-content: center;
@@ -6,16 +10,20 @@
 .first-container{
     width: 400px;
     height: 400px;
+    border: solid black 3px;
 }
 .last-container{
     width: 400px;
     height: 400px;
+    border: solid black 3px;
 }
 .email-container{
     width: 400px;
     height: 400px;
+    border: solid black 3px;
 }
 .five-container{
     width: 400px;
     height: 400px;
+    border: solid black 3px;
 }
