@@ -1,0 +1,21 @@
+.student-log{
+    display: flex;
+    justify-content: center;
+}
+
+.first-container{
+    width: 400px;
+    height: 400px;
+}
+.last-container{
+    width: 400px;
+    height: 400px;
+}
+.email-container{
+    width: 400px;
+    height: 400px;
+}
+.five-container{
+    width: 400px;
+    height: 400px;
+}
